@@ -1,0 +1,27 @@
+.naslov {color: #800000; 
+	font-style: italic; 
+	font-size: 40px; 
+	padding-top: 80px; 
+	padding-left: 300px;}
+
+.podnaslov {color: #800000; font-style: italic; font-size: 20px;}
+
+body {background-image:url(kultura.png); 
+	  background-size: cover;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-repeat: no-repeat
+	}
+
+.naslov1 {color: #800000; 
+	font-style: italic;
+	 font-size: 40px; 
+	 padding-top: 80px; 
+	 padding-left: 300px;}
+.podnaslov1 {color: #800000; font-style: italic; font-size: 20px;}	 
+
+.naslov2 {color: #800000; 
+	font-style: italic; 
+	font-size: 40px; padding-top: 80px; padding-left: 300px; }
+
+.podnaslov2 {color: #800000; font-style: italic; font-size: 20px;}	

@@ -1,0 +1,63 @@
+.naslov {color: #fae6ff; 
+	     font-size: 40px; 
+	     font-style: italic; 
+	     padding-top: 80px; 
+	     padding-left: 300px;}
+
+
+.podnaslov {color: #fae6ff;
+            font-size: : 20px;
+            font-style: italic;}
+
+
+body {background-image: url(kultura.jpg); 
+	  background-size: cover;
+	  background-position: center;
+	  background-attachment: fixed;
+	  background-repeat: no-repeat; 
+
+	;}
+
+.naslov1 {color: #fae6ff;
+         font-style: italic;
+         font-size: 40px;
+         padding-top: 80px;
+         padding-left: 300px; }
+ 
+.podnaslov1 {color: #fae6ff;
+	         font-size: 20px;
+	         font-style: italic;}
+
+.naslov2 {color: #fae6ff;
+	      font-style: italic;
+	      font-size: 40px;
+	      padding-left: 300px;
+	      padding-top: 80px;
+            }
+
+
+.podnaslov2 {color: #fae6ff; 
+	font-style: italic; 
+	font-size: 20px;}
+
+
+.naslov3 {color: #fae6ff; 
+	      font-size: 40px; 
+	      font-style: italic; 
+	      padding-top: 80px; 
+	      padding-left: 300px;}
+
+
+.podnaslov3 {color: #fae6ff; 
+	font-size: 20px; 
+	font-style: italic;}
+
+
+.naslov4 {color: #fae6ff; 
+	      font-style: italic; 
+	      font-size: 40px;
+	      padding-top: 80px;
+	      padding-left: 300px;}
+
+
+.podnaslov4 {color: #fae6ff; font-size: 20px; font-style: italic;}   

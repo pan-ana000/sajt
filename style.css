@@ -1,0 +1,28 @@
+.naslov {color: #1a0000;
+         font-size: 40px; font-style: italic; padding-left: 680px; 
+         padding-top: 100px; 
+         }
+.podnaslov {color: #1a0000 ; font-style: italic; 
+	font-size: 40px ; 
+	padding-left: 840px; 
+	padding-top: 15px;}
+body {background-image:url(carstvo.jpg); background-size: 100%; }
+.uvodnitekst {color: #1a0000; 
+	font-size: 35px; 
+	font-style: italic; 
+	padding-left:400px; 
+	padding-top: 15px  } 
+.topnav {background-image:url(carstvo.jpg); }
+
+.topnav a{
+	float: left; 
+	color: #1a0000; 
+	text-align: center;
+	padding: 200px;
+ 	padding-top: 30px;
+	text-decoration: none; 
+	font-size: 25px;
+	font-style: italic;
+}
+
+
